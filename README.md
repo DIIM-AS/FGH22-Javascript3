@@ -1,5 +1,5 @@
 
-# Javascript 1
+# Javascript 3
 
 Tugas ini ditunjukan untuk talent Fazztrack agar bisa memahami  dasar javascript dan bagiamana menjalakankannya tugas tersebut dari file berikut : Code3.js, Code3;2.js, Code3;3.js, Code 3;4.js.
 
